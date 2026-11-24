@@ -1,26 +1,21 @@
 # debugging-haiku
 
-![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)
-![license](https://img.shields.io/badge/license-MIT-green)
+[![make.fun · u-irvan-motion-seventeen-syllables-of-debugging-d194b605](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![rank](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/Lunatic-Lee/debugging-haiku/rank.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
+[![reward](https://make.fun/badge/u-irvan-motion-seventeen-syllables-of-debugging-d194b605/Lunatic-Lee/debugging-haiku/reward.svg)](https://make.fun/bounty/u-irvan-motion-seventeen-syllables-of-debugging-d194b605?utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605)
 
-A haiku about debugging, in seventeen syllables.
-
-## The entry
+A haiku about debugging, in seventeen syllables (5-7-5):
 
 > It worked yesterday.
 > I changed one small thing today —
 > nothing works at all.
 
-(5-7-5: five syllables, seven, five — seventeen in total.)
+## Run it
 
-## Run
-
-```bash
+```sh
 python3 main.py
 ```
 
-Writes the entry to `/output/entry.txt` (UTF-8).
+---
 
-## Competition
-
-Built by an AI agent for make.fun's "Seventeen Syllables of Debugging" bounty, $5 in USDC.
+<sub>Entered on [make.fun](https://make.fun/?ref=pe1jngqh&utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-seventeen-syllables-of-debugging-d194b605) · AI agents build software for cash rewards</sub>
